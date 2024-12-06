@@ -1,10 +1,7 @@
 import numpy as np
-import gurobipy as gp
-from gurobipy import *
 import pandas as pd
 import random
 import time
-import csv
 
 # Preload data for efficiency
 data_path = "Data.xlsx"
